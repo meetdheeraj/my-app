@@ -21,6 +21,7 @@ const RouteComponent = () => (
       <Route exact path='/axiosget' component={AxiosGet}/>
       <Route exact path='/axiospost' component={AxiosPost}/>
       <Route exact path='/axiosdelete' component={AxiosDelete}/>
+      <Route exact path='/axiosTest' component={AxiosComponent}/>
     </Switch>
   </main>
 )
