@@ -12,6 +12,7 @@ export default class AxiosComponent extends React.Component {
           <li><Link to='/axiosget'>Axios-GET</Link></li>
           <li><Link to='/AxiosPost'>Axios-POST</Link></li>
           <li><Link to='/AxiosDelete'>Axios-DELETE</Link></li>
+          <li><Link to='/axiosTest'>Axios-TEST</Link></li>
         </ul>
       </main>
     )
