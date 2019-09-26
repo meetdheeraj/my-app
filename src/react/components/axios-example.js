@@ -1,6 +1,4 @@
 import React from 'react';
-import { Switch, Route } from 'react-router-dom'
-import axios from 'axios';
 import { Link } from 'react-router-dom'
 
 export default class AxiosComponent extends React.Component {
